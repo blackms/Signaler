@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Signaler.Scanner": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
