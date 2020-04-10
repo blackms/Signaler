@@ -1,0 +1,2 @@
+# Signaler
+Trading Sinal Sender
